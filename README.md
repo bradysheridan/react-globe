@@ -6,7 +6,7 @@ A 3D D3 Globe for React.
 
 ```js
 const React = require('react');
-const Globe = require('@abcnews/react-globe');
+const Globe = require('react-globe');
 
 const BRISBANE = [153.021072, -27.470125];
 
