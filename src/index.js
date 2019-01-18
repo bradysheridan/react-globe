@@ -7,7 +7,7 @@ const countriesJson = require('./countries.json');
 
 const BRISBANE = [153.021072, -27.470125];
 
-const OCEAN_COLOUR = '#E4EDF0';
+const OCEAN_COLOUR = 'red';
 const LAND_COLOUR = '#FFFFFF';
 const LAND_STROKE_COLOUR = 'rgba(29, 60, 67, 0.5)';
 
